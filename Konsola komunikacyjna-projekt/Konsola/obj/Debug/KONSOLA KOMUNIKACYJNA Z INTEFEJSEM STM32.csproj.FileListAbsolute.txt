@@ -1,0 +1,35 @@
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\bin\Debug\AGauge.dll
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\bin\Debug\Mitov.BasicLab.dll
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\bin\Debug\Mitov.PlotLabBasic.dll
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\KONSOLA KOMUNIKACYJNA Z INTEFEJSEM STM32.csprojResolveAssemblyReference.cache
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\VerticalProgressBar.resources
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\PROBA.Form1.resources
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\KONSOLA KOMUNIKACYJNA Z INTEFEJSEM STM32.csproj.GenerateResource.Cache
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\bin\Debug\Konsola komunikacyjna STM32.exe.config
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\bin\Debug\Konsola komunikacyjna STM32.exe.manifest
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\bin\Debug\Konsola komunikacyjna STM32.application
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\bin\Debug\Konsola komunikacyjna STM32.exe
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\bin\Debug\Konsola komunikacyjna STM32.pdb
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\Konsola.Properties.Resources.resources
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\Konsola komunikacyjna STM32.exe.manifest
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\Konsola komunikacyjna STM32.application
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\Konsola komunikacyjna STM32.exe
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\Konsola komunikacyjna STM32.pdb
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\bin\Debug\Konsola komunikacyjna STM32.exe.config
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\obj\Debug\Konsola komunikacyjna STM32.exe
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\obj\Debug\Konsola komunikacyjna STM32.pdb
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\obj\Debug\KONSOLA KOMUNIKACYJNA Z INTEFEJSEM STM32.csprojResolveAssemblyReference.cache
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\obj\Debug\VerticalProgressBar.resources
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\obj\Debug\PROBA.Form1.resources
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\obj\Debug\Konsola.Properties.Resources.resources
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\obj\Debug\KONSOLA KOMUNIKACYJNA Z INTEFEJSEM STM32.csproj.GenerateResource.Cache
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\bin\Debug\Konsola komunikacyjna STM32.exe.manifest
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\bin\Debug\Konsola komunikacyjna STM32.application
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\bin\Debug\Konsola komunikacyjna STM32.exe
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\bin\Debug\Konsola komunikacyjna STM32.pdb
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\bin\Debug\AGauge.dll
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\obj\Debug\Konsola komunikacyjna STM32.exe.manifest
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna-projekt\Konsola\obj\Debug\Konsola komunikacyjna STM32.application
+C:\Users\Filus\Desktop\WrzucicDoGita\Konsola komunikacyjna-projekt\Konsola\bin\Debug\Konsola komunikacyjna STM32.exe.config
+C:\Users\Filus\Desktop\WrzucicDoGita\Konsola komunikacyjna-projekt\Konsola\obj\Debug\Konsola komunikacyjna STM32.exe
+C:\Users\Filus\Desktop\WrzucicDoGita\Konsola komunikacyjna-projekt\Konsola\obj\Debug\Konsola komunikacyjna STM32.pdb

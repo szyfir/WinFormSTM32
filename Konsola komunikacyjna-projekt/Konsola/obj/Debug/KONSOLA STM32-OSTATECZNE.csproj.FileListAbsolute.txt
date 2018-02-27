@@ -1,0 +1,16 @@
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\obj\Debug\PROBA.Form1.resources
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\obj\Debug\PROBA.Properties.Resources.resources
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\obj\Debug\KONSOLA STM32-OSTATECZNE.csproj.GenerateResource.Cache
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\bin\Debug\PROBA.exe.config
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\bin\Debug\PROBA.exe
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\bin\Debug\PROBA.pdb
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\bin\Debug\AGauge.dll
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\obj\Debug\PROBA.exe
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\obj\Debug\PROBA.pdb
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\obj\Debug\VerticalProgressBar.resources
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\obj\Debug\KONSOLA STM32-OSTATECZNE.csprojResolveAssemblyReference.cache
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\bin\Debug\Mitov.BasicLab.dll
+D:\PROJEKT INZYNIERSKI\PROBA\PROBA\bin\Debug\Mitov.PlotLabBasic.dll
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\bin\Debug\PROBA.exe.config
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\PROBA.exe
+D:\PROJEKT INZYNIERSKI\Konsola komunikacyjna z interfejsem STM32\PROBA\obj\Debug\PROBA.pdb
